@@ -1,3 +1,3 @@
-# jekyll-base
+# covid-19-updates-hamilton
 
-Fresh Jekyll install from running "jekyll new ..."
+The code behind the website <link_to_website>. 
